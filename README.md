@@ -1,28 +1,30 @@
 # Job Tracker
 
-Job Tracker is a sleek and modern tool designed to help you organize and manage your job and internship applications effortlessly.
+Job Tracker is a sleek and modern web application designed to help you organize, track, and manage your job and internship applications effortlessly. It provides a centralized hub to manage the entire job search lifecycle, from initial application to final offer.
 
-## Project info
+## Features
 
-A modern job application tracker built with React and Vite.
+### 📊 Dashboard
+Get a high-level overview of your job search progress. View key statistics like total applications, interview rate, and pending tasks at a glance.
 
-## Getting Started
+### 💼 Jobs
+Track all your job applications in one place. Add new applications with details like company name, position, salary, location, and application status. Organize applications using a Kanban board view.
 
-Follow these steps to set up the project locally:
+### 🗓️ Interviews
+Manage your upcoming and past interviews. Schedule interviews, add notes, and track interview outcomes.
 
-```sh
-# Step 1: Clone the repository
-git clone <YOUR_GIT_URL>
+### 🔔 Reminders
+Never miss a deadline. Set reminders for follow-ups, application deadlines, and interview preparations.
 
-# Step 2: Navigate to the project directory
-cd Job_Tracker
+### 📈 Analytics
+Gain insights into your job search with visual analytics. Track application trends over time, response rates, and identify areas for improvement.
 
-# Step 3: Install the necessary dependencies
-npm i
+### 📅 Calendar
+View all your job search activities on a calendar. See interviews, reminders, and application deadlines in a unified view.
 
-# Step 4: Start the development server
-npm run dev
-```
+### 👤 Profile
+Manage your personal profile and application preferences.
+
 
 ## Technologies Used
 
@@ -36,13 +38,4 @@ npm run dev
 - **TanStack Query (React Query)**: Powerful data fetching and state management
 - **React Hook Form**: Performant, flexible, and extensible forms
 
-## Deployment
 
-To deploy this project, you can use platforms like Vercel, Netlify, or any static hosting service.
-
-1. Run `npm run build`
-2. Deploy the resulting `dist` folder to your chosen platform.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
